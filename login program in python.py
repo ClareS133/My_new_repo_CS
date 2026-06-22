@@ -1,5 +1,5 @@
 users = {"user1": "password1", "user2": "password2"}
-
+#editing for example of commit changes
 def is_valid_user(username):
     #Check if the username exists in the users dictionary
     return username in users
